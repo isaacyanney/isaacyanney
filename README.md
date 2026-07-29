@@ -2,49 +2,49 @@
 
 ### IT Support & Technical Operations | Service Desk | Workplace Technology
 
-Berlin-based IT professional with hands-on experience supporting users, devices and workplace systems. I bring together service-oriented communication, structured troubleshooting and a technical foundation in computing, networking, Python and containerized applications.
+Berlin-based IT professional with hands-on experience supporting users, devices and workplace systems. I combine service-oriented communication, structured troubleshooting and a technical foundation in computing, networking and automation.
 
-## What I work with
+## Core capabilities
 
-- **User support:** 1st- and 2nd-level support, incident handling and ticket documentation
-- **Workplace technology:** Windows 10/11, Microsoft 365, hardware preparation and device lifecycle support
-- **IT operations:** onboarding and offboarding, ServiceNow workflows, imaging and secure data wiping
-- **Deployment:** hardware rollouts, system migrations and technical coordination
-- **Systems:** Linux fundamentals, TCP/IP, DNS, DHCP and VPN
-- **Engineering tools:** PowerShell, Git, GitHub, Docker, Python and FastAPI
+- **Support:** 1st/2nd level, incident handling, ServiceNow documentation and user communication
+- **Workplace:** Windows 10/11, Microsoft 365, imaging, hardware lifecycle and rollouts
+- **Identity:** onboarding/offboarding, access planning, Active Directory and Entra ID lab work
+- **Operations:** TCP/IP, DNS, DHCP, VPN, endpoint compliance and patch workflows
+- **Automation:** PowerShell, Python, GitHub Actions, JSON reporting, Git and Docker
 
 ## Selected experience
 
-### Hitachi Energy — 1st & 2nd Level Technician
+**Hitachi Energy — 1st & 2nd Level Technician**  
+Onboarding/offboarding, hardware and account preparation, ServiceNow workflows, imaging, secure data wiping, and internal software/hardware incidents.
 
-Supported onboarding and offboarding, hardware and account preparation, ServiceNow ticket workflows, device imaging, secure data wiping, and the resolution of internal software and hardware incidents.
+**Passion Group — Rollout Technician / Lead Technician**  
+Multi-site hardware rollouts, system-migration support, technical coordination and lead-technician responsibility.
 
-### Passion Group — Rollout Technician / Lead Technician
+## IT operations portfolio
 
-Delivered hardware rollouts across multiple locations and supported system migrations, including technical coordination and lead-technician responsibility.
+| Project | What it demonstrates |
+|---|---|
+| [IT Support Operations Toolkit](https://github.com/isaacyanney/it-support-operations-toolkit) | Windows diagnostics, network fault isolation, ticket quality and support runbooks |
+| [Microsoft 365 Identity Lab](https://github.com/isaacyanney/microsoft-365-identity-lab) | Joiner–Mover–Leaver controls, Conditional Access, Intune design and PowerShell planning |
+| [Active Directory & Windows Server Lab](https://github.com/isaacyanney/active-directory-windows-server-lab) | AD structure, GPO design, safe provisioning and domain troubleshooting |
+| [Service Desk SLA Analytics](https://github.com/isaacyanney/service-desk-sla-dashboard) | Tested Python metrics for SLA, FCR, satisfaction and breach analysis |
+| [Endpoint Management & Patch Lab](https://github.com/isaacyanney/endpoint-management-patch-lab) | Update rings, compliance evidence and patch-remediation workflows |
+| [Small-Business Infrastructure Design](https://github.com/isaacyanney/small-business-it-infrastructure) | Identity, segmented networking, backup, recovery, assets and risk ownership |
 
-## Featured technical work
+## Additional engineering project
 
-### [IT Support Operations Toolkit](https://github.com/isaacyanney/it-support-operations-toolkit)
+[Confidence-Aware Visual Inspection](https://github.com/isaacyanney/Isaac-Yanney/tree/main/surface-defect-detection) — PyTorch image classification exposed through FastAPI and packaged with Docker, including health checks, request tracing and reproducible configuration.
 
-A practical PowerShell and documentation toolkit for Windows health checks, network fault isolation, incident triage, onboarding/offboarding and professional ticket records. It demonstrates safe diagnostic automation, structured JSON evidence and automated syntax validation.
+## Evidence standard
 
-### [Confidence-Aware Visual Inspection](https://github.com/isaacyanney/Isaac-Yanney/tree/main/surface-defect-detection)
-
-A six-class industrial image-classification project built with **PyTorch**, exposed through **FastAPI** and packaged with **Docker**. The project demonstrates health checks, request tracing, inference-time reporting, reproducible configuration and structured technical documentation.
-
-These projects reflect the same principles I value in IT operations: visible system state, reproducible environments, clear documentation and methodical fault isolation.
+Portfolio datasets and fictional organisations are explicitly labelled as synthetic. Automated workflows validate the PowerShell and Python components. Live Microsoft tenant or Windows Server deployment evidence will only be added after work is completed in an authorised lab.
 
 ## Background
 
-- B.Sc. Physics, Computing Major — Kwame Nkrumah University of Science and Technology
+- B.Sc. Physics, Computing Major — KNUST
 - Professional training in AI Engineering and Computer Vision
 - English: native | German: B2
-- Based in Berlin | Authorized to work in Germany
-
-## Current focus
-
-I am building my career in **IT Support, Service Desk, Desktop Support and Technical Operations**, with an interest in growing toward system administration, automation and cloud operations.
+- Berlin-based and authorized to work in Germany
 
 ## Contact
 
