@@ -11,7 +11,7 @@ Berlin-based IT professional with hands-on experience supporting users, devices 
 - **IT operations:** onboarding and offboarding, ServiceNow workflows, imaging and secure data wiping
 - **Deployment:** hardware rollouts, system migrations and technical coordination
 - **Systems:** Linux fundamentals, TCP/IP, DNS, DHCP and VPN
-- **Engineering tools:** Git, GitHub, Docker, Python and FastAPI
+- **Engineering tools:** PowerShell, Git, GitHub, Docker, Python and FastAPI
 
 ## Selected experience
 
@@ -25,11 +25,15 @@ Delivered hardware rollouts across multiple locations and supported system migra
 
 ## Featured technical work
 
+### [IT Support Operations Toolkit](https://github.com/isaacyanney/it-support-operations-toolkit)
+
+A practical PowerShell and documentation toolkit for Windows health checks, network fault isolation, incident triage, onboarding/offboarding and professional ticket records. It demonstrates safe diagnostic automation, structured JSON evidence and automated syntax validation.
+
 ### [Confidence-Aware Visual Inspection](https://github.com/isaacyanney/Isaac-Yanney/tree/main/surface-defect-detection)
 
 A six-class industrial image-classification project built with **PyTorch**, exposed through **FastAPI** and packaged with **Docker**. The project demonstrates health checks, request tracing, inference-time reporting, reproducible configuration and structured technical documentation.
 
-This work reflects the same principles I value in IT operations: visible system state, reproducible environments, clear documentation and methodical fault isolation.
+These projects reflect the same principles I value in IT operations: visible system state, reproducible environments, clear documentation and methodical fault isolation.
 
 ## Background
 
