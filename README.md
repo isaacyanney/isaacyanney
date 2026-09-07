@@ -1,51 +1,53 @@
 # Isaac Lovelace Yanney
 
-### IT Support & Technical Operations | Service Desk | Workplace Technology
+### IT Support · Service Desk · Technical Operations
 
-Berlin-based IT professional with hands-on experience supporting users, devices and workplace systems. I combine service-oriented communication, structured troubleshooting and a technical foundation in computing, networking and automation.
+Berlin-based career changer building practical capability in workplace support, structured troubleshooting and technical operations. I combine guided IT-support practice, documented technical labs and independent projects with more than five years of service, coordination and sensitive documentation experience.
 
-## Core capabilities
+## Current focus
 
-- **Support:** 1st/2nd level, incident handling, ServiceNow documentation and user communication
-- **Workplace:** Windows 10/11, Microsoft 365, imaging, hardware lifecycle and rollouts
-- **Identity:** onboarding/offboarding, access planning, Active Directory and Entra ID lab work
-- **Operations:** TCP/IP, DNS, DHCP, VPN, endpoint compliance and patch workflows
-- **Automation:** PowerShell, Python, GitHub Actions, JSON reporting, Git and Docker
+- Windows 10/11 and Microsoft 365 support
+- Incident triage, ticket documentation and structured escalation
+- Hardware preparation, imaging, secure data wiping and handover
+- TCP/IP, DNS, DHCP, Wi-Fi and VPN fundamentals
+- PowerShell, Linux and controlled identity, endpoint and server labs
+- Clear user communication and evidence-aware documentation
 
-## Selected experience
+## Selected technical work
 
-**Hitachi Energy — 1st & 2nd Level Technician**  
-Onboarding/offboarding, hardware and account preparation, ServiceNow workflows, imaging, secure data wiping, and internal software/hardware incidents.
-
-**Passion Group — Rollout Technician / Lead Technician**  
-Multi-site hardware rollouts, system-migration support, technical coordination and lead-technician responsibility.
-
-## IT operations portfolio
-
-| Project | What it demonstrates |
+| Project | Evidence |
 |---|---|
-| [IT Support Operations Toolkit](https://github.com/isaacyanney/it-support-operations-toolkit) | Windows diagnostics, network fault isolation, ticket quality and support runbooks |
-| [Microsoft 365 Identity Lab](https://github.com/isaacyanney/microsoft-365-identity-lab) | Joiner–Mover–Leaver controls, Conditional Access, Intune design and PowerShell planning |
-| [Active Directory & Windows Server Lab](https://github.com/isaacyanney/active-directory-windows-server-lab) | AD structure, GPO design, safe provisioning and domain troubleshooting |
-| [Service Desk SLA Analytics](https://github.com/isaacyanney/service-desk-sla-dashboard) | Tested Python metrics for SLA, FCR, satisfaction and breach analysis |
-| [Endpoint Management & Patch Lab](https://github.com/isaacyanney/endpoint-management-patch-lab) | Update rings, compliance evidence and patch-remediation workflows |
-| [Small-Business Infrastructure Design](https://github.com/isaacyanney/small-business-it-infrastructure) | Identity, segmented networking, backup, recovery, assets and risk ownership |
-
-## Additional engineering project
-
-[Confidence-Aware Visual Inspection](https://github.com/isaacyanney/Isaac-Yanney/tree/main/surface-defect-detection) — PyTorch image classification exposed through FastAPI and packaged with Docker, including health checks, request tracing and reproducible configuration.
+| [IT Support Operations Toolkit](https://github.com/isaacyanney/it-support-operations-toolkit) | Read-only Windows, gateway, DNS and TCP-path diagnostics; JSON output; runbooks; automated validation |
+| [Microsoft 365 Identity Lab](https://github.com/isaacyanney/microsoft-365-identity-lab) | Joiner-mover-leaver controls, Conditional Access, Intune planning, PowerShell and behavioural tests using synthetic data |
+| [Active Directory & Windows Server Lab](https://github.com/isaacyanney/active-directory-windows-server-lab) | AD DS structure, DNS, GPO, safe provisioning, Pester tests and synthetic evidence |
+| [Workplace Collaboration & Meeting-Room Support](https://github.com/isaacyanney/workplace-collaboration-meeting-room-support) | Teams, Zoom, AV, USB and docking troubleshooting framework with synthetic inventory and validation |
+| [Confidence-Aware Visual Inspection](https://github.com/isaacyanney/confidence-aware-visual-inspection) | PyTorch CNN training on procedural textures, FastAPI, Docker, evaluation and confidence-policy tests |
 
 ## Evidence standard
 
-Portfolio datasets and fictional organisations are explicitly labelled as synthetic. Automated workflows validate the PowerShell and Python components. Live Microsoft tenant or Windows Server deployment evidence will only be added after work is completed in an authorised lab.
+Projects and labs are clearly separated from formal employment. Synthetic data is labelled, production use is not claimed, and public statements are limited to inspectable source, tests, workflows and available artifacts.
 
-## Background
+Guided IT-support and rollout practice completed through Bakalorz IT Services was unpaid and intermittent. It is presented as practical training, not employment, contracting or client delivery.
 
-- B.Sc. Physics, Computing Major — KNUST
-- Professional training in AI Engineering and Computer Vision
-- English: native | German: B2
-- Berlin-based and authorized to work in Germany
+## Professional background
+
+- Educational Support Assistant, Lebenshilfe Berlin — 09/2020 to 03/2025
+- Federal Voluntary Service, Lebenshilfe Berlin — 09/2019 to 08/2020
+- Programs Coordinator, iHAND International — documented professional reference
+- Field Officer, ARA Ghana — documented voluntary-service support
+- Ghana National Service, University of Ghana College of Health Sciences — 2017/2018
+
+## Education and credentials
+
+- Google IT Support Professional Certificate
+- AI Engineering and Computer Vision further education, IU Akademie
+- B.Sc. Physics (Computing), Second Class Honours — KNUST
+- ZAB evaluation: German bachelor-level university equivalence
+
+## Availability
+
+Berlin, Germany · Available immediately · English native · German B2 · Eligible to work in Germany · No sponsorship required
 
 ## Contact
 
-[Portfolio](https://isaacyanney.github.io) · [LinkedIn](https://www.linkedin.com/in/isaac-lovelace-yanney/) · [Email](mailto:isaac.yanney@web.de)
+[Professional portfolio](https://isaac-lovelace-yanney-portfolio.w866ddfs2k.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/isaac-lovelace-yanney/) · [Email](mailto:isaac.yanney@web.de)
