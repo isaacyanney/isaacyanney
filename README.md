@@ -2,7 +2,7 @@
 
 ### IT Support · Service Desk · Technical Operations
 
-Berlin-based career changer building practical capability in workplace support, structured troubleshooting and technical operations. I combine guided IT-support practice, documented technical labs and independent projects with more than five years of service, coordination and sensitive documentation experience.
+Berlin-based IT support candidate with voluntary IT assignments in 2025 at Hitachi Energy and Passion Group through Bakalorz IT Services. My background also includes more than five years at Lebenshilfe Berlin, documented technical labs and independent projects.
 
 ## Current focus
 
@@ -27,15 +27,19 @@ Berlin-based career changer building practical capability in workplace support, 
 
 Projects and labs are clearly separated from formal employment. Synthetic data is labelled, production use is not claimed, and public statements are limited to inspectable source, tests, workflows and available artifacts.
 
-Guided IT-support and rollout practice completed through Bakalorz IT Services was unpaid and intermittent. It is presented as practical training, not employment, contracting or client delivery.
+The 2025 Hitachi Energy and Passion Group work through Bakalorz IT Services was voluntary and is documented in its reference. It is presented as practical IT assignment experience, not paid employment. Technical labs and independent projects are separate from those assignments.
 
 ## Professional background
 
-- Educational Support Assistant, Lebenshilfe Berlin — 09/2020 to 03/2025
+- Rollout Technician and Lead Technician, Bakalorz IT Services / Passion Group — voluntary IT assignment, 01/08–31/10/2025
+- 1st and 2nd Level IT Technician, Bakalorz IT Services / Hitachi Energy — voluntary IT assignment, 01/05–27/07/2025
+- Educational Support Assistant, Lebenshilfe Berlin — full-time, 09/2020 to 03/2025
 - Federal Voluntary Service, Lebenshilfe Berlin — 09/2019 to 08/2020
-- Programs Coordinator, iHAND International — documented professional reference
-- Field Officer, ARA Ghana — documented voluntary-service support
-- Ghana National Service, University of Ghana College of Health Sciences — 2017/2018
+- Programs Coordinator, Impact Health and Disability International (iHAND) — involved from 12/2016; reference dated 08/03/2019
+- Field Officer, Agricultural and Rural Development Association (ARA) — reference dated 24/04/2019
+- Administrative Assistant, University of Ghana College of Health Sciences — Ghana National Service, 2017–2018
+
+The iHAND and ARA work ran concurrently, paused during National Service, and resumed afterward.
 
 ## Education and credentials
 
@@ -50,4 +54,4 @@ Berlin, Germany · Available immediately · English native · German B2 · Eligi
 
 ## Contact
 
-[Professional portfolio](https://isaac-lovelace-yanney-portfolio.w866ddfs2k.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/isaac-lovelace-yanney/) · [Email](mailto:isaac.yanney@web.de)
+[Professional portfolio](https://isaacyanney.github.io/) · [LinkedIn](https://www.linkedin.com/in/isaac-lovelace-yanney/) · [Email](mailto:isaac.yanney23@gmail.com)
