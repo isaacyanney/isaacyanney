@@ -35,11 +35,11 @@ The 2025 Hitachi Energy and Passion Group work through Bakalorz IT Services was 
 - 1st and 2nd Level IT Technician, Bakalorz IT Services / Hitachi Energy — voluntary IT assignment, 01/05–27/07/2025
 - Educational Support Assistant, Lebenshilfe Berlin — full-time, 09/2020 to 03/2025
 - Federal Voluntary Service, Lebenshilfe Berlin — 09/2019 to 08/2020
-- Programs Coordinator, Impact Health and Disability International (iHAND) — involved from 12/2016; reference dated 08/03/2019
-- Field Officer, Agricultural and Rural Development Association (ARA) — reference dated 24/04/2019
+- Programs Coordinator, Impact Health and Disability International (iHAND) — involved from December 2016; reference confirms role on 08 March 2019
+- Field Officer, Agricultural and Rural Development Association (ARA) — reference confirms role on 24 April 2019
 - Administrative Assistant, University of Ghana College of Health Sciences — Ghana National Service, 2017–2018
 
-The iHAND and ARA work ran concurrently, paused during National Service, and resumed afterward.
+The roles overlapped, paused during Ghana National Service in 2017/18, and resumed afterward. The references give no ARA start date or end date for either role.
 
 ## Education and credentials
 
